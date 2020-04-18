@@ -59,4 +59,3 @@ for container in containers:
     f.write(brand + ", " + product_name.replace(",", "|") + ", " + shipping + "\n")
 
 f.close() 
-
