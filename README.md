@@ -1,5 +1,5 @@
 # Web-Scraper
-#Simple web scraping python script using BeautifulSoup
+## Simple web scraping python script using BeautifulSoup
 
 ** Version 1.0.0**
 Python-based Web Scraper script
